@@ -7,7 +7,7 @@ let blockedTwitterAccounts =  [];
 let newAccountsToBlock = [];
 
 
-let lang = 'FR';
+let lang = 'EN';
 
 let textHolder = {
     'FR': {
